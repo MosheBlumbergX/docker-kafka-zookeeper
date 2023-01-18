@@ -40,8 +40,8 @@ test3
 
 Get from Dockerhub
 ------------------
-https://hub.docker.com/r/johnnypark/kafka-zookeeper/
+https://hub.docker.com/repository/docker/mosheblumberg/zookeeper-kafka
 
 Credits
 -------
-Originally cloned and inspired by https://github.com/spotify/docker-kafka
+Originally cloned and inspired by https://github.com/spotify/docker-kafka and https://github.com/hey-johnnypark/docker-kafka-zookeeper
